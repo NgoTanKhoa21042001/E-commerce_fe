@@ -1,0 +1,22 @@
+.signup__image--container {
+  background-image: url(https://res.cloudinary.com/bach22/image/upload/v1671340879/avatar/photo-1670985099560-aa91caf54f71_ha0pyv.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+.signup__form--container,
+.login__form--container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.login__image--container {
+  background-image: url(https://res.cloudinary.com/bach22/image/upload/v1671340925/avatar/photo-1641805963238-a8d4717575d6_pmzlqy.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+/* https://res.cloudinary.com/bach22/image/upload/v1671340925/avatar/photo-1641805963238-a8d4717575d6_pmzlqy.jpg */
