@@ -19,4 +19,11 @@
   background-size: cover;
 }
 
+@media screen and (max-width: 756px) {
+  .login__image--container,
+  .signup__image--container {
+    display: none;
+  }
+}
+
 /* https://res.cloudinary.com/bach22/image/upload/v1671340925/avatar/photo-1641805963238-a8d4717575d6_pmzlqy.jpg */
