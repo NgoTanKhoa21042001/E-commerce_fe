@@ -32,7 +32,7 @@ const Home = () => {
       {/* sale banner */}
       <div className="sale_banner--container mt-4">
         <img
-          src="https://thumbs.dreamstime.com/b/online-shopping-banner-bags-icons-shop-61959143.jpg"
+          src="https://res.cloudinary.com/bach22/image/upload/v1671501017/avatar/online-shopping-banner-bags-icons-shop-61959143_ur5dgd.jpg"
           alt=""
         />
       </div>

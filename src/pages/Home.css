@@ -1,6 +1,9 @@
 .sale_banner--container img {
   display: block;
+  max-width: 1200px;
+
   width: 100%;
+  margin: 0 auto;
 }
 .category-tile {
   height: 250px;
