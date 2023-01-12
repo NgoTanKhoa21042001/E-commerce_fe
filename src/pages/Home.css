@@ -5,6 +5,9 @@
   width: 100%;
   margin: 0 auto;
 }
+.home-banner {
+  width: 100%;
+}
 .category-tile {
   height: 250px;
   background-size: cover;

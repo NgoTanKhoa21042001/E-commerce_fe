@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div>
       <img
-        src="https://res.cloudinary.com/learn-code-10/image/upload/v1653947013/yqajnhqf7usk56zkwqi5.png"
+        src="https://res.cloudinary.com/bach22/image/upload/v1673172973/avatar/He_20Has_20Risen_20Apparel_20logo_daywgm.jpg"
         alt=""
         className="home-banner"
       />
